@@ -7,3 +7,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/denimcodes/anchor-amm.git
+[submodule "anchor-nft-staking"]
+	path = anchor-nft-staking
+	url = https://github.com/denimcodes/anchor-nft-staking.git
