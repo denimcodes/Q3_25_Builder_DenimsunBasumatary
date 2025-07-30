@@ -13,3 +13,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/denimcodes/marketplace.git
+[submodule "anchor-dice"]
+	path = anchor-dice
+	url = https://github.com/denimcodes/anchor-dice.git
