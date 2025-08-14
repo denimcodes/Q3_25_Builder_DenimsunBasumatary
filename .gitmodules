@@ -16,3 +16,6 @@
 [submodule "anchor-dice"]
 	path = anchor-dice
 	url = https://github.com/denimcodes/anchor-dice.git
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/denimcodes/capstone.git
